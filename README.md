@@ -4,6 +4,7 @@
 Install SDF (Ubuntu 22)
 
     sudo apt-get install libsdl2-2.0-0
+    sudo apt-get install libsdl2-dev
 
 - For installations on other platforms see https://wiki.libsdl.org/
 
